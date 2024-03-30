@@ -3,7 +3,7 @@ layout: post
 title: "Democracy vs. Success: How form of government affects a countries success"
 author: Tyler Zaugg
 description: Government affects all our lives. This post shows how to collect data on democracy level and measures of success through web scraping. 
-image: "/assets/images/flags.jpg"
+image: "/assets/images/flags.jpeg"
 ---
 
 # Introduction

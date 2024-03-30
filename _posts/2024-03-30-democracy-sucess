@@ -6,4 +6,11 @@ description: Government affects all our lives. This post shows how to collect da
 image: "/assets/images/flags.jpg"
 ---
 
-# Introduction
+## Introduction
+
+Understanding the relationship between a nation's form of government and its overall success is crucial in comprehending global dynamics. In this post, we leverage data collection techniques to explore how different government systems impact key metrics such as population, economic prosperity, and public health.
+
+## Democracy Rankings
+
+We begin our analysis by examining democracy rankings across different countries. Utilizing data from [Democracy Matrix](https://www.democracymatrix.com/ranking), we compile a list of countries alongside their corresponding democracy index values and classifications.
+
